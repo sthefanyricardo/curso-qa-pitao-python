@@ -79,26 +79,63 @@ python inputs.py
 
 ```
 curso-qa-pitao-python/
-├── README.md
-├── hello.py                  # Primeiro programa
-├── cadastro_simples. py       # Exemplo de cadastro
-├── variaveis. py              # Trabalhando com variáveis
-├── inputs.py                 # Entrada de dados
-└── [outros arquivos do curso]
+├── README. md
+│
+├── modulo_1/                          # 🎯 Módulo 1: Introdução ao Python
+│   ├── hello.py                       # Primeiro programa - Hello World
+│   └── operadores_aritméticos.py      # Operações matemáticas básicas
+│
+├── modulo_2/                          # 🎯 Módulo 2: Variáveis e Entrada de Dados
+│   ├── variaveis.py                   # Trabalhando com variáveis
+│   ├── inputs.py                      # Entrada de dados do usuário
+│   └── mini_projeto_1/
+│       └── cadastro_simples.py        # 🚀 Mini-Projeto 1: Sistema de Cadastro
+│
+├── modulo_3/                          # 🎯 Módulo 3: Estruturas Condicionais
+│   ├── idade.py                       # Verificação de maioridade
+│   ├── operadores_comparação.py       # Operadores de comparação (==, !=, >, <, etc)
+│   └── mini_projeto_2/
+│       └── porteiro_eletronico.py     # 🚀 Mini-Projeto 2: Porteiro Eletrônico
+│
+└── modulo_4/                          # 🎯 Módulo 4: Listas e Loops
+    ├── listas.py                      # Trabalhando com listas
+    ├── range.py                       # Função range() para loops
+    └── mini_projeto_3/
+        └── sorteador_nomes.py         # 🚀 Mini-Projeto 3: Sorteador + Tabuada
 ```
 
 ## 📚 Módulos do Curso
 
-- [ ] Introdução ao Python
-- [ ] Variáveis e Tipos de Dados
-- [ ] Estruturas de Controle
-- [ ] Funções
-- [ ] Orientação a Objetos
-- [ ] Testes com Pytest
-- [ ] Automação de Testes
-- [ ] Projeto Final
+#### 📌 Módulo 1: Introdução ao Python
+- Primeiro contato com Python
+- Print e operadores aritméticos básicos
+- **Conceitos:** `print()`, operadores `+`, `-`, `*`, `/`
 
-> 💡 **Dica:** Marque os módulos conforme você for avançando no curso!
+#### 📌 Módulo 2: Variáveis e Entrada de Dados
+- Declaração e uso de variáveis
+- Captura de dados do usuário
+- Formatação de strings com f-strings
+- **Conceitos:** `variáveis`, `input()`, `f-strings`, validação básica
+
+#### 📌 Módulo 3: Estruturas Condicionais
+- Tomada de decisões no código
+- Operadores de comparação e lógica
+- Estruturas `if`, `elif`, `else`
+- **Conceitos:** `if/elif/else`, operadores de comparação, `try/except`
+
+#### 📌 Módulo 4: Listas e Loops
+- Trabalhando com coleções de dados
+- Iteração com `for` loops
+- Uso da função `range()`
+- **Conceitos:** `list`, `for`, `range()`, iteração
+
+### 🎯 Mini-Projetos:
+
+| Projeto | Módulo | Descrição | Conceitos |
+|---------|--------|-----------|-----------|
+| **1.  Sistema de Cadastro** | 2 | Coleta e exibe dados do usuário | `input()`, validação, f-strings |
+| **2. Porteiro Eletrônico** | 3 | Controle de acesso por idade | `if/elif/else`, constantes, try/except |
+| **3. Sorteador + Tabuada** | 4 | Saudação de convidados e geração de tabuada | `list`, `for`, `range()` |
 
 ## 🔗 Recursos Úteis
 
