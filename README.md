@@ -16,8 +16,7 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 
 - ✅ Exercícios práticos
 - 💻 Exemplos de código
-- 🤖 Projetos de automação de testes
-- 📖 Anotações e recursos adicionais
+- 🤖 Mini projetos de logica de programação com Python
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -81,61 +80,173 @@ python inputs.py
 curso-qa-pitao-python/
 ├── README. md
 │
-├── modulo_1/                          # 🎯 Módulo 1: Introdução ao Python
-│   ├── hello.py                       # Primeiro programa - Hello World
-│   └── operadores_aritméticos.py      # Operações matemáticas básicas
+├── modulo_1/                          # 🎯 Módulo 1: Olá, QA! Começando com Python Sem Medo
+│   ├── hello.py                       # A Primeira Mágica (comando print)
+│   └── operadores_aritméticos.py      # O Computador Sabe Fazer Contas
 │
 ├── modulo_2/                          # 🎯 Módulo 2: Variáveis e Entrada de Dados
-│   ├── variaveis.py                   # Trabalhando com variáveis
-│   ├── inputs.py                      # Entrada de dados do usuário
+│   ├── variaveis.py                   # O que são "Caixinhas" (Variáveis)
+│   ├── inputs.py                      # Conversando com o Usuário (comando input)
 │   └── mini_projeto_1/
-│       └── cadastro_simples.py        # 🚀 Mini-Projeto 1: Sistema de Cadastro
+│       └── cadastro_simples.py        # 🚀 Mini-Projeto 1: O "Cadastro" Simples
 │
 ├── modulo_3/                          # 🎯 Módulo 3: Estruturas Condicionais
-│   ├── idade.py                       # Verificação de maioridade
-│   ├── operadores_comparação.py       # Operadores de comparação (==, !=, >, <, etc)
+│   ├── idade.py                       # A Encruzilhada (comando if) e E se não? (comando else)
+│   ├── operadores_comparação.py       # Verificando as Coisas (Operadores de Comparação)
 │   └── mini_projeto_2/
-│       └── porteiro_eletronico.py     # 🚀 Mini-Projeto 2: Porteiro Eletrônico
+│       └── porteiro_eletronico.py     # 🚀 Mini-Projeto 2: O Porteiro Eletrônico (com elif)
 │
-└── modulo_4/                          # 🎯 Módulo 4: Listas e Loops
-    ├── listas.py                      # Trabalhando com listas
-    ├── range.py                       # Função range() para loops
-    └── mini_projeto_3/
-        └── sorteador_nomes.py         # 🚀 Mini-Projeto 3: Sorteador + Tabuada
+├── modulo_4/                          # 🎯 Módulo 4: Listas e Loops
+│   ├── listas.py                      # A Lista de Compras (Listas)
+│   ├── range.py                       # Repetindo por um número de vezes (range)
+│   └── mini_projeto_3/
+│       └── sorteador_nomes. py         # 🚀 Mini-Projeto 3: O Sorteador de Nomes
+│
+├── modulo_5/                          # 🎯 Módulo 5: Loop While e Controle de Fluxo
+│   └── [em desenvolvimento]           # Loop while, break, validação
+│
+├── modulo_6/                          # 🎯 Módulo 6: Dicionários
+│   └── [em desenvolvimento]           # Criação, modificação e iteração
+│
+├── modulo_7/                          # 🎯 Módulo 7: Funções
+│   └── [em desenvolvimento]           # Criação de funções, return, parâmetros
+│
+└── modulo_8/                          # 🎯 Módulo 8: Orientação a Objetos
+    └── [em desenvolvimento]           # Classes, métodos, herança, Page Object
 ```
 
-## 📚 Módulos do Curso
+### 🗂️ Descrição Detalhada dos Módulos
 
-#### 📌 Módulo 1: Introdução ao Python
-- Primeiro contato com Python
-- Print e operadores aritméticos básicos
-- **Conceitos:** `print()`, operadores `+`, `-`, `*`, `/`
+#### 📌 Módulo 1: Olá, QA! Começando com Python Sem Medo
+Primeiros passos com Python, entendendo o ambiente e executando comandos básicos.
+
+**Aulas:**
+- 🎬 Boas-vindas ao curso QApitão Python
+- 📖 Introdução ao Python
+- 🛠️ Nossa "Oficina de Trabalho"
+- ✨ A Primeira Mágica (O comando `print`)
+- 🧮 O Computador Sabe Fazer Contas (Operações Básicas)
+
+**Conceitos:** `print()`, operadores aritméticos (`+`, `-`, `*`, `/`)
+
+---
 
 #### 📌 Módulo 2: Variáveis e Entrada de Dados
-- Declaração e uso de variáveis
-- Captura de dados do usuário
-- Formatação de strings com f-strings
-- **Conceitos:** `variáveis`, `input()`, `f-strings`, validação básica
+Aprenda a armazenar e manipular dados, além de interagir com o usuário. 
+
+**Aulas:**
+- 📦 O que são "Caixinhas" (Variáveis)?
+- 👁️ Mostrando o que tem dentro de cada "Caixinha"
+- 🏷️ Os Tipos de Coisas que Guardamos (Tipos de Dados)
+- 💬 Conversando com o Usuário (O comando `input`)
+- 🚀 **Mini-Projeto 1:** O "Cadastro" Simples
+
+**Conceitos:** variáveis, tipos de dados (`str`, `int`, `float`), `input()`, `f-strings`, validação básica
+
+---
 
 #### 📌 Módulo 3: Estruturas Condicionais
-- Tomada de decisões no código
-- Operadores de comparação e lógica
-- Estruturas `if`, `elif`, `else`
-- **Conceitos:** `if/elif/else`, operadores de comparação, `try/except`
+Tomada de decisões no código com base em condições.
+
+**Aulas:**
+- 🔀 A Encruzilhada (O comando `if`)
+- 🚫 E se não? (O comando `else`)
+- 🔍 Verificando as Coisas (Operadores de Comparação)
+- 🚀 **Mini-Projeto 2:** O Porteiro Eletrônico (com `elif`)
+
+**Conceitos:** `if/elif/else`, operadores de comparação (`==`, `!=`, `>`, `<`, `>=`, `<=`), `try/except`, constantes
+
+---
 
 #### 📌 Módulo 4: Listas e Loops
-- Trabalhando com coleções de dados
-- Iteração com `for` loops
-- Uso da função `range()`
-- **Conceitos:** `list`, `for`, `range()`, iteração
+Trabalhando com coleções de dados e estruturas de repetição.
 
-### 🎯 Mini-Projetos:
+**Aulas:**
+- 📝 A Lista de Compras (Listas)
+- 🔁 Olhando Item por Item (O loop `for`)
+- 🔢 Repetindo por um número de vezes (O `range`)
+- 🚀 **Mini-Projeto 3:** O Sorteador de Nomes
 
-| Projeto | Módulo | Descrição | Conceitos |
-|---------|--------|-----------|-----------|
-| **1.  Sistema de Cadastro** | 2 | Coleta e exibe dados do usuário | `input()`, validação, f-strings |
-| **2. Porteiro Eletrônico** | 3 | Controle de acesso por idade | `if/elif/else`, constantes, try/except |
-| **3. Sorteador + Tabuada** | 4 | Saudação de convidados e geração de tabuada | `list`, `for`, `range()` |
+**Conceitos:** `list`, indexação, `for`, `range()`, iteração
+
+---
+
+#### 📌 Módulo 5: Loop While e Controle de Fluxo
+Estruturas de repetição avançadas e controle de loops.
+
+**Aulas:**
+- 🔄 Estruturas de repetição — Loop `while`
+- ⚠️ O Perigo do "Loop Infinito"
+- 🛑 O Comando `break`
+- 🚀 **Mini-Projeto 4:** O Validador de Senha
+
+**Conceitos:** `while`, `break`, `continue`, loops infinitos, validação de dados
+
+---
+
+#### 📌 Módulo 6: Dicionários
+Armazenamento de dados em pares chave-valor.
+
+**Aulas:**
+- 📚 Criando e Acessando Dicionários
+- ✏️ Modificando e Adicionando
+- 🔁 Dicionários e Loops
+- 🚀 **Mini-Projeto 5:** O "Cadastro" Centralizado
+
+**Conceitos:** `dict`, chaves e valores, métodos `.keys()`, `.values()`, `.items()`, iteração em dicionários
+
+---
+
+#### 📌 Módulo 7: Funções
+Criação de blocos de código reutilizáveis.
+
+**Aulas:**
+- 🎯 O que é uma "Função"? 
+- 🔄 A Diferença entre "Mostrar" e "Entregar" (O comando `return`)
+- 🛠️ Ferramentas Multiuso (Múltiplos Parâmetros)
+- 🚀 **Mini-Projeto 6:** A Calculadora de Frete Logístico
+
+**Conceitos:** `def`, parâmetros, `return`, escopo de variáveis, funções com múltiplos parâmetros
+
+---
+
+#### 📌 Módulo 8: Orientação a Objetos
+Programação orientada a objetos e padrões de design.
+
+**Aulas:**
+- 🎭 Desvendando a Origem do Page Object
+- 🏗️ Criando nossa primeira Classe (O "Modelo")
+- ⚙️ "Ações" da Classe (Métodos)
+- 🧬 Tipos de Conta (Herança)
+- 🎉 Parabéns!  Você Sabe Programar! 
+
+**Conceitos:** classes, objetos, `__init__`, métodos, atributos, herança, Page Object Pattern
+
+---
+
+### 🎯 Mini-Projetos do Curso
+
+| # | Projeto | Módulo | Descrição | Conceitos Principais |
+|---|---------|--------|-----------|---------------------|
+| 1️⃣ | **O "Cadastro" Simples** | 2 | Coleta e exibe dados do usuário | `input()`, validação, f-strings |
+| 2️⃣ | **O Porteiro Eletrônico** | 3 | Controle de acesso por idade com lógica condicional | `if/elif/else`, constantes, try/except |
+| 3️⃣ | **O Sorteador de Nomes** | 4 | Saudação de convidados e geração de tabuada | `list`, `for`, `range()` |
+| 4️⃣ | **O Validador de Senha** | 5 | Sistema de validação com tentativas limitadas | `while`, `break`, validação |
+| 5️⃣ | **O "Cadastro" Centralizado** | 6 | Gerenciamento de dados com dicionários | `dict`, CRUD básico |
+| 6️⃣ | **Calculadora de Frete Logístico** | 7 | Cálculo de frete com funções reutilizáveis | funções, `return`, parâmetros |
+
+---
+
+### 📊 Progresso do Curso
+
+- [x] **Módulo 1:** Olá, QA! Começando com Python Sem Medo ✅
+- [x] **Módulo 2:** Variáveis e Entrada de Dados ✅
+- [x] **Módulo 3:** Estruturas Condicionais ✅
+- [x] **Módulo 4:** Listas e Loops ✅
+- [ ] **Módulo 5:** Loop While e Controle de Fluxo 🚧
+- [ ] **Módulo 6:** Dicionários 🚧
+- [ ] **Módulo 7:** Funções 🚧
+- [ ] **Módulo 8:** Orientação a Objetos 🚧
 
 ## 🔗 Recursos Úteis
 
