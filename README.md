@@ -12,7 +12,7 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 - 🎓 [Udemy - QApitão Python](https://www.udemy.com/course/qapitao-python/)
 - 🚀 [Test Beyond](https://testbeyond.com/cursos)
 
-### 📊 Meu progresso do Curso
+## 📊 Meu progresso do Curso
 
 - [x] **Módulo 1:** Olá, QA! Começando com Python Sem Medo ✅
 - [x] **Módulo 2:** Variáveis e Entrada de Dados ✅
@@ -126,9 +126,9 @@ curso-qa-pitao-python/
     └── [em desenvolvimento]           # Classes, métodos, herança, Page Object
 ```
 
-### 🗂️ Descrição Detalhada dos Módulos
+## 🗂️ Descrição Detalhada dos Módulos
 
-#### 📌 Módulo 1: Olá, QA! Começando com Python Sem Medo
+### 📌 Módulo 1: Olá, QA! Começando com Python Sem Medo
 Primeiros passos com Python, entendendo o ambiente e executando comandos básicos.
 
 **Aulas:**
@@ -142,7 +142,7 @@ Primeiros passos com Python, entendendo o ambiente e executando comandos básico
 
 ---
 
-#### 📌 Módulo 2: Variáveis e Entrada de Dados
+### 📌 Módulo 2: Variáveis e Entrada de Dados
 Aprenda a armazenar e manipular dados, além de interagir com o usuário. 
 
 **Aulas:**
@@ -156,7 +156,7 @@ Aprenda a armazenar e manipular dados, além de interagir com o usuário.
 
 ---
 
-#### 📌 Módulo 3: Estruturas Condicionais
+### 📌 Módulo 3: Estruturas Condicionais
 Tomada de decisões no código com base em condições.
 
 **Aulas:**
@@ -169,7 +169,7 @@ Tomada de decisões no código com base em condições.
 
 ---
 
-#### 📌 Módulo 4: Listas e Loops
+### 📌 Módulo 4: Listas e Loops
 Trabalhando com coleções de dados e estruturas de repetição.
 
 **Aulas:**
@@ -182,7 +182,7 @@ Trabalhando com coleções de dados e estruturas de repetição.
 
 ---
 
-#### 📌 Módulo 5: Loop While e Controle de Fluxo
+### 📌 Módulo 5: Loop While e Controle de Fluxo
 Estruturas de repetição avançadas e controle de loops.
 
 **Aulas:**
@@ -195,7 +195,7 @@ Estruturas de repetição avançadas e controle de loops.
 
 ---
 
-#### 📌 Módulo 6: Dicionários
+### 📌 Módulo 6: Dicionários
 Armazenamento de dados em pares chave-valor.
 
 **Aulas:**
@@ -208,7 +208,7 @@ Armazenamento de dados em pares chave-valor.
 
 ---
 
-#### 📌 Módulo 7: Funções
+### 📌 Módulo 7: Funções
 Criação de blocos de código reutilizáveis.
 
 **Aulas:**
@@ -221,7 +221,7 @@ Criação de blocos de código reutilizáveis.
 
 ---
 
-#### 📌 Módulo 8: Orientação a Objetos
+### 📌 Módulo 8: Orientação a Objetos
 Programação orientada a objetos e padrões de design.
 
 **Aulas:**
