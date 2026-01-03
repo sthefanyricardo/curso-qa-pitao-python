@@ -26,8 +26,8 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 ## 🎯 Conteúdo deste repositório
 
 - ✅ Exercícios práticos
-- 💻 Exemplos de código
-- 🤖 Mini projetos de logica de programação com Python
+- ✅ Exemplos de código
+- ✅ Mini projetos de logica de programação com Python
 
 ## 🛠️ Tecnologias Utilizadas
 
