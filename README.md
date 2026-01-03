@@ -12,7 +12,18 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 - 🎓 [Udemy - QApitão Python](https://www.udemy.com/course/qapitao-python/)
 - 🚀 [Test Beyond](https://testbeyond.com/cursos)
 
-## 🎯 Conteúdo do Repositório
+### 📊 Meu progresso do Curso
+
+- [x] **Módulo 1:** Olá, QA! Começando com Python Sem Medo ✅
+- [x] **Módulo 2:** Variáveis e Entrada de Dados ✅
+- [x] **Módulo 3:** Estruturas Condicionais ✅
+- [x] **Módulo 4:** Listas e Loops ✅
+- [ ] **Módulo 5:** Loop While e Controle de Fluxo 🚧
+- [ ] **Módulo 6:** Dicionários 🚧
+- [ ] **Módulo 7:** Funções 🚧
+- [ ] **Módulo 8:** Orientação a Objetos 🚧
+
+## 🎯 Conteúdo deste repositório
 
 - ✅ Exercícios práticos
 - 💻 Exemplos de código
@@ -237,17 +248,6 @@ Programação orientada a objetos e padrões de design.
 
 ---
 
-### 📊 Progresso do Curso
-
-- [x] **Módulo 1:** Olá, QA! Começando com Python Sem Medo ✅
-- [x] **Módulo 2:** Variáveis e Entrada de Dados ✅
-- [x] **Módulo 3:** Estruturas Condicionais ✅
-- [x] **Módulo 4:** Listas e Loops ✅
-- [ ] **Módulo 5:** Loop While e Controle de Fluxo 🚧
-- [ ] **Módulo 6:** Dicionários 🚧
-- [ ] **Módulo 7:** Funções 🚧
-- [ ] **Módulo 8:** Orientação a Objetos 🚧
-
 ## 🔗 Recursos Úteis
 
 - 📖 [Documentação oficial do Python](https://docs.python.org/pt-br/3/)
@@ -270,16 +270,6 @@ Programação orientada a objetos e padrões de design.
 ## 📄 Licença
 
 Este projeto é para fins educacionais, seguindo o conteúdo do curso QApitão Python. 
-
-## 🤝 Contribuindo
-
-Este é um repositório de estudo pessoal, mas sugestões são sempre bem-vindas!
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
 
 ---
 
