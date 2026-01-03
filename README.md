@@ -235,7 +235,7 @@ Programação orientada a objetos e padrões de design.
 
 ---
 
-### 🎯 Mini-Projetos do Curso
+## 🎯 Mini-Projetos do Curso
 
 | # | Projeto | Módulo | Descrição | Conceitos Principais |
 |---|---------|--------|-----------|---------------------|
