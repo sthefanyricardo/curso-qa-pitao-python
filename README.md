@@ -1,8 +1,10 @@
 # 🐍 Curso QApitão Python
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)
 
-Repositório com materiais e exercícios do **Curso QApitão Python** ministrado pelo instrutor **Fernando Papito**. 
+Repositório com materiais e exercícios do **Curso QApitão Python** ministrado pelo instrutor **Fernando Papito**.  
 
 ## 📚 Sobre o Curso
 
@@ -12,9 +14,9 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 - 🎓 [Udemy - QApitão Python](https://www.udemy.com/course/qapitao-python/)
 - 🚀 [Test Beyond](https://testbeyond.com/cursos)
 
-## 📊 Meu progresso do Curso
+## 📊 Meu Progresso no Curso
 
-- [x] **Módulo 1:** Olá, QA! Começando com Python Sem Medo ✅
+- [x] **Módulo 1:** Olá, QA!  Começando com Python Sem Medo ✅
 - [x] **Módulo 2:** Variáveis e Entrada de Dados ✅
 - [x] **Módulo 3:** Estruturas Condicionais ✅
 - [x] **Módulo 4:** Listas e Loops ✅
@@ -23,11 +25,11 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 - [x] **Módulo 7:** Funções ✅
 - [ ] **Módulo 8:** Orientação a Objetos 🚧
 
-## 🎯 Conteúdo deste repositório
+## 🎯 Conteúdo deste Repositório
 
 - ✅ Exercícios práticos
 - ✅ Exemplos de código
-- ✅ Mini projetos de logica de programação com Python
+- ✅ Mini projetos de lógica de programação com Python
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -36,7 +38,7 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 
 ## 📋 Pré-requisitos
 
-Antes de começar, você precisará ter instalado em sua máquina:
+Antes de começar, você precisará ter instalado em sua máquina: 
 
 - 🐍 **Python 3.x** - [Baixar aqui](https://www.python.org/downloads/)
   - [Python Brasil (pt-BR)](https://python.org.br/)
@@ -44,7 +46,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 - 💾 **pip** (gerenciador de pacotes Python - já vem com Python)
 - 📝 **Visual Studio Code** - [Baixar aqui](https://code.visualstudio.com/)
 
-### Verificar instalação: 
+### Verificar instalação:
 
 ```bash
 # Verificar versão do Python
@@ -79,17 +81,25 @@ python <nome_do_arquivo>. py
 ### Exemplos de execução:
 
 ```bash
-python hello.py
-python cadastro_simples.py
-python variaveis.py
-python inputs.py
+# Módulo 1
+python modulo_1/hello.py
+python modulo_1/operadores_aritméticos.py
+
+# Módulo 3
+python modulo_3/idade.py
+python modulo_3/mini_projeto_2/porteiro_eletronico.py
+
+# Módulo 5
+python modulo_5/contador.py
+python modulo_5/mini_projeto_4/validador_de_senha.py
+
 ```
 
 ## 📝 Estrutura do Projeto
 
 ```
 curso-qa-pitao-python/
-├── README. md
+├── README.md
 │
 ├── modulo_1/                          # 🎯 Módulo 1: Olá, QA! Começando com Python Sem Medo
 │   ├── hello.py                       # A Primeira Mágica (comando print)
@@ -99,28 +109,35 @@ curso-qa-pitao-python/
 │   ├── variaveis.py                   # O que são "Caixinhas" (Variáveis)
 │   ├── inputs.py                      # Conversando com o Usuário (comando input)
 │   └── mini_projeto_1/
-│       └── cadastro_simples.py        # 🚀 Mini-Projeto 1: O "Cadastro" Simples
+│       └── cadastro_simples. py        # 🚀 Mini-Projeto 1: O "Cadastro" Simples
 │
 ├── modulo_3/                          # 🎯 Módulo 3: Estruturas Condicionais
-│   ├── idade.py                       # A Encruzilhada (comando if) e E se não? (comando else)
+│   ├── idade.py                       # A Encruzilhada (comando if) e E se não?  (comando else)
 │   ├── operadores_comparação.py       # Verificando as Coisas (Operadores de Comparação)
 │   └── mini_projeto_2/
 │       └── porteiro_eletronico.py     # 🚀 Mini-Projeto 2: O Porteiro Eletrônico (com elif)
 │
 ├── modulo_4/                          # 🎯 Módulo 4: Listas e Loops
-│   ├── listas.py                      # A Lista de Compras (Listas)
+│   ├── listas. py                      # A Lista de Compras (Listas)
 │   ├── range.py                       # Repetindo por um número de vezes (range)
 │   └── mini_projeto_3/
 │       └── sorteador_nomes. py         # 🚀 Mini-Projeto 3: O Sorteador de Nomes
 │
 ├── modulo_5/                          # 🎯 Módulo 5: Loop While e Controle de Fluxo
-│   └──            # Loop while, break, validação
+│   ├── contador.py                    # Contador simples com while
+│   ├── menu.py                        # Menu interativo com break
+│   └── mini_projeto_4/
+│       └── validador_de_senha.py      # 🚀 Mini-Projeto 4: O Validador de Senha
 │
 ├── modulo_6/                          # 🎯 Módulo 6: Dicionários
-│   └──            # Criação, modificação e iteração
+│   ├── dict.py                        # Criando e manipulando dicionários
+│   └── mini_projeto_5/
+│       └── cadastro_centralizado.py   # 🚀 Mini-Projeto 5: O "Cadastro" Centralizado
 │
 ├── modulo_7/                          # 🎯 Módulo 7: Funções
-│   └──            # Criação de funções, return, parâmetros
+│   ├── funcoes.py                     # Criando funções com parâmetros e return
+│   └── mini_projeto_6/
+│       └── calculadora_frete_logistico.py  # 🚀 Mini-Projeto 6: Calculadora de Frete Logístico
 │
 └── modulo_8/                          # 🎯 Módulo 8: Orientação a Objetos
     └── [em desenvolvimento]           # Classes, métodos, herança, Page Object
@@ -229,7 +246,7 @@ Programação orientada a objetos e padrões de design.
 - 🏗️ Criando nossa primeira Classe (O "Modelo")
 - ⚙️ "Ações" da Classe (Métodos)
 - 🧬 Tipos de Conta (Herança)
-- 🎉 Parabéns!  Você Sabe Programar! 
+- 🎉 Parabéns! Você Sabe Programar! 
 
 **Conceitos:** classes, objetos, `__init__`, métodos, atributos, herança, Page Object Pattern
 
@@ -258,8 +275,8 @@ Programação orientada a objetos e padrões de design.
 ## 👩‍💻 Autora
 
 **Sthefany Ricardo**
-- GitHub:  [@sthefanyricardo](https://github.com/sthefanyricardo)
-- 📧 Entre em contato para trocar ideias sobre QA e Python!
+- GitHub: [@sthefanyricardo](https://github.com/sthefanyricardo)
+- 📧 Entre em contato para trocar ideias sobre QA e Python! 
 
 ## 👨‍🏫 Instrutor
 
@@ -269,15 +286,15 @@ Programação orientada a objetos e padrões de design.
 
 ## 📄 Licença
 
-Este projeto é para fins educacionais, seguindo o conteúdo do curso QApitão Python. 
+Este projeto é para fins educacionais, seguindo o conteúdo do curso QApitão Python.
 
 ---
 
 <div align="center">
 
-  ⭐ **Se este repositório foi útil para você, considere dar uma estrela!** ⭐
+  ⭐ **Se este repositório foi útil para você, considere dar uma estrela! ** ⭐
 
-  💬 **Dúvidas?** Abra uma [issue](https://github.com/sthefanyricardo/curso-qa-pitao-python/issues)! 
+  💬 **Dúvidas? ** Abra uma [issue](https://github.com/sthefanyricardo/curso-qa-pitao-python/issues)! 
 
   Feito com 💜 por Sthefany Ricardo durante o Curso QApitão Python
 </div>
