@@ -18,9 +18,9 @@ Este curso ensina automação de testes com Python, abordando desde conceitos b�
 - [x] **Módulo 2:** Variáveis e Entrada de Dados ✅
 - [x] **Módulo 3:** Estruturas Condicionais ✅
 - [x] **Módulo 4:** Listas e Loops ✅
-- [ ] **Módulo 5:** Loop While e Controle de Fluxo 🚧
-- [ ] **Módulo 6:** Dicionários 🚧
-- [ ] **Módulo 7:** Funções 🚧
+- [x] **Módulo 5:** Loop While e Controle de Fluxo 🚧
+- [x] **Módulo 6:** Dicionários 🚧
+- [x] **Módulo 7:** Funções 🚧
 - [ ] **Módulo 8:** Orientação a Objetos 🚧
 
 ## 🎯 Conteúdo deste repositório
@@ -114,13 +114,13 @@ curso-qa-pitao-python/
 │       └── sorteador_nomes. py         # 🚀 Mini-Projeto 3: O Sorteador de Nomes
 │
 ├── modulo_5/                          # 🎯 Módulo 5: Loop While e Controle de Fluxo
-│   └── [em desenvolvimento]           # Loop while, break, validação
+│   └──            # Loop while, break, validação
 │
 ├── modulo_6/                          # 🎯 Módulo 6: Dicionários
-│   └── [em desenvolvimento]           # Criação, modificação e iteração
+│   └──            # Criação, modificação e iteração
 │
 ├── modulo_7/                          # 🎯 Módulo 7: Funções
-│   └── [em desenvolvimento]           # Criação de funções, return, parâmetros
+│   └──            # Criação de funções, return, parâmetros
 │
 └── modulo_8/                          # 🎯 Módulo 8: Orientação a Objetos
     └── [em desenvolvimento]           # Classes, métodos, herança, Page Object
