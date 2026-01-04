@@ -273,12 +273,11 @@ Este projeto é para fins educacionais, seguindo o conteúdo do curso QApitão P
 
 ---
 
-⭐ **Se este repositório foi útil para você, considere dar uma estrela! ** ⭐
-
-💬 **Dúvidas? ** Abra uma [issue](https://github.com/sthefanyricardo/curso-qa-pitao-python/issues)! 
-
----
-
 <div align="center">
+
+  ⭐ **Se este repositório foi útil para você, considere dar uma estrela!** ⭐
+
+  💬 **Dúvidas?** Abra uma [issue](https://github.com/sthefanyricardo/curso-qa-pitao-python/issues)! 
+
   Feito com 💜 por Sthefany Ricardo durante o Curso QApitão Python
 </div>
